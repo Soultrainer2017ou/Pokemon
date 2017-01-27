@@ -1,0 +1,59 @@
+Hoopa-Unbound @ Life Orb  
+Ability: Magician  
+EVs: 160 Atk / 96 SpA / 252 Spe  
+Hasty Nature  
+- Psychic  
+- Gunk Shot  
+- Drain Punch  
+- Hyperspace Fury  
+
+Heatran (M) @ Air Balloon  
+Ability: Flash Fire  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Flash Cannon  
+- Earth Power  
+- Stealth Rock  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Extreme Speed  
+- Fire Punch  
+- Earthquake  
+- Outrage  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Shadow Ball  
+- Thunderbolt  
+- Psychic  
+
+Mimikyu (M) @ Focus Sash  
+Ability: Disguise  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Will-O-Wisp  
+- Hone Claws  
+- Play Rough  
+- Shadow Claw  
+
+Nihilego @ Focus Sash  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Power Gem  
+- Grass Knot  
+- Toxic Spikes  
+
