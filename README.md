@@ -1,0 +1,2 @@
+# Pokemon
+guia para principiantes
